@@ -4,6 +4,8 @@ grunt-script-template
 Grunt task to generate files using script-template.
 
 # Overview
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsamuelneff%2Fgrunt-script-template.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsamuelneff%2Fgrunt-script-template?ref=badge_shield)
+
 
 To use `grunt-script-template` you'll need three things: a template, data, and a destination. `grunt-script-template` will then run the data against the template and store the result in the specified destination. Both the template and destination are specified as relative paths to the files. Data may be specified as JSON data within the `Gruntfile.js` or can be specified as a function which will be evaluated with the result run against the template.
 
@@ -66,3 +68,6 @@ For more information on templates and data, see https://github.com/samuelneff/sc
 Copyright (c) 2014 Samuel Neff
 Licensed under the (MIT license)[https://github.com/samuelneff/grunt-script-template/blob/master/LICENSE-MIT].
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsamuelneff%2Fgrunt-script-template.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsamuelneff%2Fgrunt-script-template?ref=badge_large)
